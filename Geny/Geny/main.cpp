@@ -6,8 +6,6 @@
 #include "struct.h"
 
 
-///@todo main -r   wejscie.txt dziala
-///@todo make: *** [makefile:34: release] Naruszenie ochrony pamięci (zrzut pamięci) dziala
 
 
 int main(int ile_param, char * param[]) 
