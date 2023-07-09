@@ -1,0 +1,183 @@
+\begin{theindex}
+
+  \item {class\_error}
+    \subitem {struct.h}, 27
+
+  \indexspace
+
+  \item {dlugosc}
+    \subitem {trasa}, 9
+  \item {dlugosc\_trasy}
+    \subitem {funkcje.cpp}, 12
+    \subitem {funkcje.h}, 19
+
+  \indexspace
+
+  \item {error}
+    \subitem {funkcje.cpp}, 12
+    \subitem {funkcje.h}, 20
+    \subitem {struct.h}, 27
+
+  \indexspace
+
+  \item {funkcje.cpp}
+    \subitem {dlugosc\_trasy}, 12
+    \subitem {error}, 12
+    \subitem {generowanie\_populacji}, 12
+    \subitem {generowanie\_trasy}, 13
+    \subitem {generuj\_punkty\_prostokat}, 13
+    \subitem {krzyzowanie\_pmx}, 14
+    \subitem {losowa}, 14
+    \subitem {losowa2}, 14
+    \subitem {mutacja}, 15
+    \subitem {odczyt\_miast}, 15
+    \subitem {odleglosc\_miast}, 15
+    \subitem {parametry\_wejsciowe}, 16
+    \subitem {selekcja\_turniejowa}, 16
+    \subitem {wypisz\_miasta}, 17
+    \subitem {wypisz\_populacje}, 17
+    \subitem {wypisz\_trase}, 17
+    \subitem {zapisz\_do\_pliku}, 18
+  \item {funkcje.h}
+    \subitem {dlugosc\_trasy}, 19
+    \subitem {error}, 20
+    \subitem {generowanie\_populacji}, 20
+    \subitem {generowanie\_trasy}, 20
+    \subitem {generuj\_punkty\_prostokat}, 21
+    \subitem {krzyzowanie\_pmx}, 21
+    \subitem {losowa}, 21
+    \subitem {losowa2}, 22
+    \subitem {mutacja}, 22
+    \subitem {odczyt\_miast}, 22
+    \subitem {odleglosc\_miast}, 23
+    \subitem {parametry\_wejsciowe}, 23
+    \subitem {selekcja\_turniejowa}, 24
+    \subitem {wypisz\_miasta}, 24
+    \subitem {wypisz\_populacje}, 24
+    \subitem {wypisz\_trase}, 25
+    \subitem {zapisz\_do\_pliku}, 25
+
+  \indexspace
+
+  \item {generowanie\_populacji}
+    \subitem {funkcje.cpp}, 12
+    \subitem {funkcje.h}, 20
+  \item {generowanie\_trasy}
+    \subitem {funkcje.cpp}, 13
+    \subitem {funkcje.h}, 20
+  \item {generuj\_punkty\_prostokat}
+    \subitem {funkcje.cpp}, 13
+    \subitem {funkcje.h}, 21
+  \item {Geny/Geny/funkcje.cpp}, 11
+  \item {Geny/Geny/funkcje.h}, 18, 25
+  \item {Geny/Geny/main.cpp}, 26
+  \item {Geny/Geny/struct.h}, 27
+
+  \indexspace
+
+  \item {koniec}
+    \subitem {struct.h}, 27
+  \item {krzyzowanie\_pmx}
+    \subitem {funkcje.cpp}, 14
+    \subitem {funkcje.h}, 21
+
+  \indexspace
+
+  \item {losowa}
+    \subitem {funkcje.cpp}, 14
+    \subitem {funkcje.h}, 21
+  \item {losowa2}
+    \subitem {funkcje.cpp}, 14
+    \subitem {funkcje.h}, 22
+
+  \indexspace
+
+  \item {main}
+    \subitem {main.cpp}, 26
+  \item {main.cpp}
+    \subitem {main}, 26
+  \item {miasta}
+    \subitem {trasa}, 9
+  \item {miasto}, 7
+    \subitem {numer}, 7
+    \subitem {x}, 7
+    \subitem {y}, 8
+  \item {mutacja}
+    \subitem {funkcje.cpp}, 15
+    \subitem {funkcje.h}, 22
+
+  \indexspace
+
+  \item {nr\_pokolenia}
+    \subitem {populacja}, 8
+  \item {numer}
+    \subitem {miasto}, 7
+
+  \indexspace
+
+  \item {odczyt\_miast}
+    \subitem {funkcje.cpp}, 15
+    \subitem {funkcje.h}, 22
+  \item {odleglosc\_miast}
+    \subitem {funkcje.cpp}, 15
+    \subitem {funkcje.h}, 23
+  \item {ok}
+    \subitem {struct.h}, 27
+
+  \indexspace
+
+  \item {parametry\_wejsciowe}
+    \subitem {funkcje.cpp}, 16
+    \subitem {funkcje.h}, 23
+  \item {populacja}, 8
+    \subitem {nr\_pokolenia}, 8
+    \subitem {trasy}, 8
+
+  \indexspace
+
+  \item {selekcja\_turniejowa}
+    \subitem {funkcje.cpp}, 16
+    \subitem {funkcje.h}, 24
+  \item {struct.h}
+    \subitem {class\_error}, 27
+    \subitem {error}, 27
+    \subitem {koniec}, 27
+    \subitem {ok}, 27
+
+  \indexspace
+
+  \item {trasa}, 9
+    \subitem {dlugosc}, 9
+    \subitem {miasta}, 9
+  \item {trasy}
+    \subitem {populacja}, 8
+
+  \indexspace
+
+  \item {wypisz\_miasta}
+    \subitem {funkcje.cpp}, 17
+    \subitem {funkcje.h}, 24
+  \item {wypisz\_populacje}
+    \subitem {funkcje.cpp}, 17
+    \subitem {funkcje.h}, 24
+  \item {wypisz\_trase}
+    \subitem {funkcje.cpp}, 17
+    \subitem {funkcje.h}, 25
+
+  \indexspace
+
+  \item {x}
+    \subitem {miasto}, 7
+
+  \indexspace
+
+  \item {y}
+    \subitem {miasto}, 8
+
+  \indexspace
+
+  \item {zapisz\_do\_pliku}
+    \subitem {funkcje.cpp}, 18
+    \subitem {funkcje.h}, 25
+
+\end{theindex}

@@ -1,0 +1,46 @@
+\doxysection{funkcje.\+h}
+\label{funkcje_8h_source}\index{Geny/Geny/funkcje.h@{Geny/Geny/funkcje.h}}
+\textbf{ Go to the documentation of this file.}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ }
+\DoxyCodeLine{00002\ \textcolor{preprocessor}{\#include\ <string>}}
+\DoxyCodeLine{00003\ \textcolor{preprocessor}{\#include\ <vector>}}
+\DoxyCodeLine{00004\ }
+\DoxyCodeLine{00005\ \textcolor{preprocessor}{\#include\ "{}struct.h"{}}}
+\DoxyCodeLine{00006\ }
+\DoxyCodeLine{00017\ class\_error\ parametry\_wejsciowe(\textcolor{keyword}{const}\ \textcolor{keywordtype}{int}\ ile\_param,\ \textcolor{keywordtype}{char}\ *\ param[],\ std::string\&\ plik\_wejsciowy,\ std::string\&\ plik\_wyjsciowy,\ \textcolor{keywordtype}{int}\&\ liczba\_pokolen,\ \textcolor{keywordtype}{int}\&\ liczba\_osobnikow,\ \textcolor{keywordtype}{int}\&\ generowanie\_miast);}
+\DoxyCodeLine{00018\ }
+\DoxyCodeLine{00023\ \textcolor{keywordtype}{void}\ error();}
+\DoxyCodeLine{00024\ }
+\DoxyCodeLine{00030\ std::pair<class\_error,\ std::vector<miasto>>\ odczyt\_miast(\textcolor{keyword}{const}\ std::string\&\ plik\_wejsciowy);}
+\DoxyCodeLine{00031\ }
+\DoxyCodeLine{00037\ \textcolor{keywordtype}{void}\ wypisz\_miasta\ (\textcolor{keyword}{const}\ std::vector<miasto>\&\ miasta);}
+\DoxyCodeLine{00038\ }
+\DoxyCodeLine{00044\ trasa\ generowanie\_trasy(std::vector<miasto>\ miasta);}
+\DoxyCodeLine{00045\ }
+\DoxyCodeLine{00051\ \textcolor{keywordtype}{void}\ wypisz\_trase(\textcolor{keyword}{const}\ trasa\&\ droga1);}
+\DoxyCodeLine{00052\ }
+\DoxyCodeLine{00059\ populacja\ generowanie\_populacji(\textcolor{keyword}{const}\ \textcolor{keywordtype}{int}\&\ liczba\_osobnikow,\ \textcolor{keyword}{const}\ std::vector<miasto>\ miasta);}
+\DoxyCodeLine{00060\ }
+\DoxyCodeLine{00066\ \textcolor{keywordtype}{void}\ wypisz\_populacje(\textcolor{keyword}{const}\ populacja\&\ populacja1);}
+\DoxyCodeLine{00067\ }
+\DoxyCodeLine{00073\ \textcolor{keywordtype}{void}\ dlugosc\_trasy(trasa\&\ tras);}
+\DoxyCodeLine{00074\ }
+\DoxyCodeLine{00081\ \textcolor{keywordtype}{double}\ odleglosc\_miast(\textcolor{keyword}{const}\ miasto\&\ miasto1,\ \textcolor{keyword}{const}\ miasto\&\ miasto2);}
+\DoxyCodeLine{00082\ }
+\DoxyCodeLine{00083\ \textcolor{keywordtype}{int}\ losowa(\textcolor{keyword}{const}\ \textcolor{keywordtype}{int}\ pocz,\ \textcolor{keyword}{const}\ \textcolor{keywordtype}{int}\ koniec);}
+\DoxyCodeLine{00084\ }
+\DoxyCodeLine{00091\ \textcolor{keywordtype}{void}\ krzyzowanie\_pmx(populacja\&\ popula,\ std::vector<miasto>\ miasta);}
+\DoxyCodeLine{00092\ }
+\DoxyCodeLine{00098\ \textcolor{keywordtype}{void}\ mutacja(populacja\&\ poplua);}
+\DoxyCodeLine{00099\ }
+\DoxyCodeLine{00106\ std::pair<int,\ int>\ losowa2(\textcolor{keyword}{const}\ \textcolor{keywordtype}{int}\&\ poczatek,\ \textcolor{keyword}{const}\ \textcolor{keywordtype}{int}\&\ koniec);}
+\DoxyCodeLine{00107\ }
+\DoxyCodeLine{00113\ populacja\ selekcja\_turniejowa(populacja\&\ popula);}
+\DoxyCodeLine{00114\ }
+\DoxyCodeLine{00121\ \textcolor{keywordtype}{void}\ zapisz\_do\_pliku(\textcolor{keyword}{const}\ populacja\&\ popula,\ \textcolor{keyword}{const}\ std::string\ wyjsciowy);}
+\DoxyCodeLine{00122\ }
+\DoxyCodeLine{00133\ \textcolor{keywordtype}{void}\ generuj\_punkty\_prostokat(\textcolor{keyword}{const}\ \textcolor{keywordtype}{int}\ LICZBA\_PUNKTOW,\ \textcolor{keyword}{const}\ \textcolor{keywordtype}{double}\ X\_MIN,\ \textcolor{keyword}{const}\ \textcolor{keywordtype}{double}\ X\_MAX,\ \textcolor{keyword}{const}\ \textcolor{keywordtype}{double}\ Y\_MIN,\ \textcolor{keyword}{const}\ \textcolor{keywordtype}{double}\ Y\_MAX,\ std::string\&\ wejscie);}
+\DoxyCodeLine{00134\ }
+
+\end{DoxyCode}

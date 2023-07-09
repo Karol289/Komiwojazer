@@ -1,0 +1,71 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Todo List}{1}{}%
+\contentsline {chapter}{\numberline {2}Class Index}{3}{}%
+\contentsline {section}{\numberline {2.1}Class List}{3}{}%
+\contentsline {chapter}{\numberline {3}File Index}{5}{}%
+\contentsline {section}{\numberline {3.1}File List}{5}{}%
+\contentsline {chapter}{\numberline {4}Class Documentation}{7}{}%
+\contentsline {section}{\numberline {4.1}miasto Struct Reference}{7}{}%
+\contentsline {subsection}{\numberline {4.1.1}Detailed Description}{7}{}%
+\contentsline {subsection}{\numberline {4.1.2}Member Data Documentation}{7}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}numer}{7}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.2}x}{8}{}%
+\contentsline {subsubsection}{\numberline {4.1.2.3}y}{8}{}%
+\contentsline {section}{\numberline {4.2}populacja Struct Reference}{8}{}%
+\contentsline {subsection}{\numberline {4.2.1}Detailed Description}{8}{}%
+\contentsline {subsection}{\numberline {4.2.2}Member Data Documentation}{8}{}%
+\contentsline {subsubsection}{\numberline {4.2.2.1}nr\_pokolenia}{8}{}%
+\contentsline {subsubsection}{\numberline {4.2.2.2}trasy}{9}{}%
+\contentsline {section}{\numberline {4.3}trasa Struct Reference}{9}{}%
+\contentsline {subsection}{\numberline {4.3.1}Detailed Description}{9}{}%
+\contentsline {subsection}{\numberline {4.3.2}Member Data Documentation}{9}{}%
+\contentsline {subsubsection}{\numberline {4.3.2.1}dlugosc}{9}{}%
+\contentsline {subsubsection}{\numberline {4.3.2.2}miasta}{9}{}%
+\contentsline {chapter}{\numberline {5}File Documentation}{11}{}%
+\contentsline {section}{\numberline {5.1}Geny/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Geny/funkcje.cpp File Reference}{11}{}%
+\contentsline {subsection}{\numberline {5.1.1}Function Documentation}{12}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.1}dlugosc\_trasy()}{12}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.2}error()}{12}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.3}generowanie\_populacji()}{13}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.4}generowanie\_trasy()}{13}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.5}generuj\_punkty\_prostokat()}{13}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.6}krzyzowanie\_pmx()}{14}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.7}losowa()}{14}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.8}losowa2()}{14}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.9}mutacja()}{15}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.10}odczyt\_miast()}{15}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.11}odleglosc\_miast()}{16}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.12}parametry\_wejsciowe()}{16}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.13}selekcja\_turniejowa()}{16}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.14}wypisz\_miasta()}{17}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.15}wypisz\_populacje()}{17}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.16}wypisz\_trase()}{18}{}%
+\contentsline {subsubsection}{\numberline {5.1.1.17}zapisz\_do\_pliku()}{18}{}%
+\contentsline {section}{\numberline {5.2}Geny/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Geny/funkcje.h File Reference}{18}{}%
+\contentsline {subsection}{\numberline {5.2.1}Function Documentation}{19}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}dlugosc\_trasy()}{19}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.2}error()}{20}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.3}generowanie\_populacji()}{20}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.4}generowanie\_trasy()}{20}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.5}generuj\_punkty\_prostokat()}{21}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.6}krzyzowanie\_pmx()}{21}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.7}losowa()}{22}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.8}losowa2()}{22}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.9}mutacja()}{22}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.10}odczyt\_miast()}{22}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.11}odleglosc\_miast()}{23}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.12}parametry\_wejsciowe()}{23}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.13}selekcja\_turniejowa()}{24}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.14}wypisz\_miasta()}{24}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.15}wypisz\_populacje()}{24}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.16}wypisz\_trase()}{25}{}%
+\contentsline {subsubsection}{\numberline {5.2.1.17}zapisz\_do\_pliku()}{25}{}%
+\contentsline {section}{\numberline {5.3}funkcje.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{25}{}%
+\contentsline {section}{\numberline {5.4}Geny/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Geny/main.cpp File Reference}{26}{}%
+\contentsline {subsection}{\numberline {5.4.1}Function Documentation}{26}{}%
+\contentsline {subsubsection}{\numberline {5.4.1.1}main()}{26}{}%
+\contentsline {section}{\numberline {5.5}Geny/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Geny/struct.h File Reference}{27}{}%
+\contentsline {subsection}{\numberline {5.5.1}Enumeration Type Documentation}{27}{}%
+\contentsline {subsubsection}{\numberline {5.5.1.1}class\_error}{27}{}%
+\contentsline {section}{\numberline {5.6}struct.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{27}{}%
+\contentsline {chapter}{Index}{29}{}%
